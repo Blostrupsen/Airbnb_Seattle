@@ -14,7 +14,7 @@ As a part of Udacity's Data Scientist Nanodegree, this project concentrates on p
 I concluded that the main reasons for the Airbnb landlord to get a good price, were how many people the listing can accomodate, and the location. The features the landlord may consider as not so important (regarding pricing) are number of reviews, limitations on number of nights the guests may stay, and the host response rate. For getting good reviews, the most important things are host response rating, number of reviews, and facilities like parking, TV, internet access and bathrooms - in other words - an appropriate standard.
 
 ## Files:
-The details regarding the analysis made in this project may be found in a Jupyter notebook, which can be found in this Medium blog post: (sett in link her). Here you can also find the raw data which was initially downloaded from Kaggle, via the project motivation and details part of this Udacity project.
+The details regarding the analysis made in this project may be found in the attached Jupyter notebook. You can also find the raw data which was initially downloaded from Kaggle, via the project motivation and details part of this Udacity project.
 
 ## Project Interactions:
 If you want to try running some of the Python code, please feel free to use the code in the abovementioned Jupyter notebook as you please.
