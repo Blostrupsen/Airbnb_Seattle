@@ -17,7 +17,7 @@ I concluded that the main reasons for the Airbnb landlord to get a good price, w
 The details regarding the analysis made in this project may be found in the attached Jupyter notebook. You can also find the raw data which was initially downloaded from Kaggle, via the project motivation and details part of this Udacity project.
 
 ## Project Interactions:
-If you want to try running some of the Python code, please feel free to use the code in the abovementioned Jupyter notebook as you please.
+If you want to try running some of the Python code, please feel free to use the code in the abovementioned Jupyter notebook as you please. See also a blog post at Medium here: https://medium.com/@johngunnarblostrupsen/psst-are-you-an-airbnb-landlord-here-are-some-useful-input-1ca934bd425b
 
 ## Licensing, Acknowledgements, Authors, etc.:
 This project was completed by my humble self, in my very beginning of learning to write Python code.
